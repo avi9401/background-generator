@@ -1,1 +1,1 @@
-# background-generator
+# background-generator: A little project to start my journey as a dev on GitHub, it's a gradient generator using Html, CSS, and JavaScript.. it runs in a browser, and the user can choose two colours to generate a gradient, and also see the rgb values associated with it. there's also a feature to randomize the gradient generation, and can be accessed by clicking on the random buttom. 
